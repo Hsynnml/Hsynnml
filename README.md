@@ -1,3 +1,7 @@
+<div align="center">
+  
+## <span style="font-size:larger;font-weight:bold">ENGLISH</span></div>
+
 # Computer Technical Service
 
 In this section, I will provide information about computer technical services. I offer the following services:
