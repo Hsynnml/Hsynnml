@@ -17,6 +17,8 @@ This section will contain information about my front-end development skills. Her
 - React: I develop modern web applications using React. I also have experience with libraries like React Router, Redux, and Material-UI.
 
  
+<div align="center">
+  
 ## <span style="font-size:larger;font-weight:bold">DEUTSCHE</span>
   
 # Computer Technischer Service
