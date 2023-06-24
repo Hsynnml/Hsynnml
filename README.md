@@ -15,5 +15,3 @@ This section will contain information about my front-end development skills. Her
 - CSS: I am experienced in CSS3 and Sass for design and styling. I am proficient in responsive design and familiar with CSS frameworks.
 - JavaScript: I have basic JavaScript skills and can utilize the jQuery library.
 - React: I develop modern web applications using React. I also have experience with libraries like React Router, Redux, and Material-UI.
-
-This Readme file can be used to showcase your skills in computer technical service and front-end development. If you'd like, we can convert this information into a Readme file on GitHub.
