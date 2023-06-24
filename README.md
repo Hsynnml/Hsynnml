@@ -16,7 +16,7 @@ This section will contain information about my front-end development skills. Her
 - JavaScript: I have basic JavaScript skills and can utilize the jQuery library.
 - React: I develop modern web applications using React. I also have experience with libraries like React Router, Redux, and Material-UI.
 
-                                                  ## **Deutsche**
+                                                  ##**Deutsche**
   
 # Computer Technischer Service
 
