@@ -30,7 +30,7 @@ In diesem Abschnitt werde ich Informationen über den computer technischen Servi
 - Virenscan und -entfernung
 - Datenwiederherstellung und -sicherung
 
-#Frontend-Entwicklung
+# Frontend-Entwicklung
 
 Dieser Abschnitt enthält Informationen über meine Fähigkeiten in der Frontend-Entwicklung. Hier sind meine Kompetenzbereiche:
 
