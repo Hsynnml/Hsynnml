@@ -1,14 +1,14 @@
-### Hi there 👋
+omputer Technical Service
+In this section, I will provide information about computer technical services. I offer the following services:
 
-**Hsynnml/Hsynnml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer hardware repair and maintenance
+Software installation and updates
+Virus scanning and removal
+Data recovery and backup
+Front End Development
+This section will contain information about my front-end development skills. Here are my areas of expertise:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+HTML: I use HTML5 to create the structure of web pages.
+CSS: I am experienced in CSS3 and Sass for design and styling. I am proficient in responsive design and familiar with CSS frameworks.
+JavaScript: I have basic JavaScript skills and can utilize the jQuery library.
+React: I develop modern web applications using React. I also have experience with libraries like React Router, Redux, and Material-UI.
