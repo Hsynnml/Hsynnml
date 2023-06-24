@@ -16,8 +16,8 @@ This section will contain information about my front-end development skills. Her
 - JavaScript: I have basic JavaScript skills and can utilize the jQuery library.
 - React: I develop modern web applications using React. I also have experience with libraries like React Router, Redux, and Material-UI.
 
-                                                  ##DEUTSCHE##
-# Computer Technischer Service
+
+## **Deutsche** Computer Technischer Service
 
 In diesem Abschnitt werde ich Informationen über den computer technischen Service bereitstellen. Ich biete folgende Dienstleistungen an:
 
@@ -26,7 +26,7 @@ In diesem Abschnitt werde ich Informationen über den computer technischen Servi
 - Virenscan und -entfernung
 - Datenwiederherstellung und -sicherung
 
-# Frontend-Entwicklung
+## **Deutsche**Frontend-Entwicklung
 
 Dieser Abschnitt enthält Informationen über meine Fähigkeiten in der Frontend-Entwicklung. Hier sind meine Kompetenzbereiche:
 
