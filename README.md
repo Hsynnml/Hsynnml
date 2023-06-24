@@ -1,4 +1,4 @@
-omputer Technical Service
+Computer Technical Service
 In this section, I will provide information about computer technical services. I offer the following services:
 
 Computer hardware repair and maintenance
