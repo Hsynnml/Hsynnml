@@ -25,7 +25,7 @@ This section will contain information about my front-end development skills. Her
   
 ## <span style="font-size:larger;font-weight:bold">DEUTSCHE</span></div>
   
-# Computer Technischer Service
+# Fachinformatiker Für Systementegration
 
 In diesem Abschnitt werde ich Informationen über den computer technischen Service bereitstellen. Ich biete folgende Dienstleistungen an:
 
